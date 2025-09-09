@@ -40,6 +40,14 @@ Smart Check is an AI-driven platform designed to **analyze and audit smart contr
 *Smart Check Homepage*
 ![WhatsApp Image 2025-09-09 at 20 43 24](https://github.com/user-attachments/assets/7d3b3894-2309-4b4d-af16-a1228626657f)
 
+*AI Auditor*
+![WhatsApp Image 2025-09-09 at 20 44 43](https://github.com/user-attachments/assets/6d1926a5-bc76-4c8e-a6a3-0e24ff94ab7f)
+
+*Generated Audit Report*
+![WhatsApp Image 2025-09-09 at 21 05 54](https://github.com/user-attachments/assets/c5b33a02-7b05-4fc6-9e36-5ef636b01ae1)
+
+
+
 ---
 
 ## 📈 Future Enhancements
