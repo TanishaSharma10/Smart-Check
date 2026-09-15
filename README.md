@@ -1,15 +1,15 @@
 # Smart Check 🛡️
 
-**AI-powered Smart Contract Auditor** using the **Gemini Foundation Model**
+**AI-powered Smart Contract Auditor** using **OpenAI**
 
-Smart Check is an AI-driven platform designed to **analyze and audit smart contracts** written in **Solidity, Golang, Python, and JavaScript**. It leverages the **Gemini Foundation Model** to detect vulnerabilities, suggest optimizations, and improve the overall security of decentralized applications (dApps).
+Smart Check is an AI-driven platform designed to **analyze and audit smart contracts** written in **Solidity, Golang, Python, and JavaScript**. It leverages **OpenAI** to detect vulnerabilities, suggest optimizations, and improve the overall security of decentralized applications (dApps).
 
 ---
 
 ## ✨ Features
 
 * 🔍 **Multi-language Support** – Audits contracts in Solidity, Golang, Python, and JavaScript.
-* 🤖 **AI-Powered Auditing** – Uses the Gemini Foundation Model for vulnerability detection.
+* 🤖 **AI-Powered Auditing** – Uses OpenAI for vulnerability detection.
 * 📊 **Detailed Reports** – Provides structured feedback with security risks and recommendations.
 * 📊 **Fast & Scalable** – Built with Next.js and React for a seamless experience.
 * 🎨 **Modern UI** – Styled with Tailwind CSS for a clean and responsive design.
@@ -19,8 +19,8 @@ Smart Check is an AI-driven platform designed to **analyze and audit smart contr
 ## 🛠️ Tech Stack
 
 * **Frontend:** React, Next.js, TypeScript, Tailwind CSS
-* **Backend/Logic:** Node.js, Gemini API
-* **AI Model:** Gemini Foundation Model
+* **Backend/Logic:** Node.js, OpenAI API
+* **AI Model:** OpenAI
 * **Languages Supported for Auditing:** Solidity, Golang, Python, JavaScript
 
 ---
@@ -29,7 +29,7 @@ Smart Check is an AI-driven platform designed to **analyze and audit smart contr
 
 1. Choose the contract language (Solidity / Golang / Python / JavaScript).
 2. Upload or paste your smart contract code.
-3. Smart Check sends the contract to the **Gemini Foundation Model**.
+3. Smart Check sends the contract to **OpenAI**.
 4. The model analyzes the code for vulnerabilities, optimizations, and best practices.
 5. A detailed audit report is generated for the user.
 
@@ -45,7 +45,6 @@ Smart Check is an AI-driven platform designed to **analyze and audit smart contr
 
 *Generated Audit Report*
 ![WhatsApp Image 2025-09-09 at 21 05 54](https://github.com/user-attachments/assets/c5b33a02-7b05-4fc6-9e36-5ef636b01ae1)
-
 
 
 ---
