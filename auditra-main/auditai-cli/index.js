@@ -10,7 +10,7 @@ require("dotenv").config();
 const program = new Command();
 
 program
-  .name("auditai")
+  .name("Smart Check")
   .description("A CLI tool to audit smart contracts using OpenAI")
   .version("1.0.0");
 
